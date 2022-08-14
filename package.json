@@ -1,0 +1,18 @@
+{
+  "name": "u02-m02-trabalho",
+  "version": "1.0.0",
+  "description": "Servidor HTTP usado no trabalho final da UNIDADE 02 (Programação Front-End em JavaScript) / MÓDULO 02 (JavaScript) do curso Full Stack - Digital College",
+  "main": "httpServer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "author": {
+    "name": "Otávio Medeiros",
+    "email": "prof.otavio.medeiros@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
